@@ -1,1 +1,10 @@
 I've entered file content here
+
+git clon ssh_key - skidanje repozitorijuma sa github-a
+git status - provera statusa promena 
+git add . - potvrdjivanje promena
+git commit -m = kreiranje novog komita sa potvrdjenim promenama 
+git push -u origin master - pushovanje commitova na online repository
+git pull = skidanje promena (commitova) sa online repozitorijuma
+git remote add origin ssh_key - postavljanje repozitorijuma sa racunara online
+git remote -v - proveravamo da li imamo neki origin 
